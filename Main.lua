@@ -36,7 +36,7 @@ local settings = {
 
     --
 
-    fov = 350,
+    fov = 110,
     fovcircle = true,
     fovsides = 12,
     fovthickness = 1
